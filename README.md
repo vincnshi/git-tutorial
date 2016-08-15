@@ -10,3 +10,7 @@ new repository created & pulled
 
 new branch feature-c
 
+# Git clone feature-D -- 20160815
+
+new branch feature-D for clone tutorial
+
